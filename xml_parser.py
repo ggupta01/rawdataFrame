@@ -4,7 +4,6 @@ import re
 import collections
 import pandas as pd
 
-_author_ = 'tdhiman@worldquant.com'
 
 """
 PURPOSE: This module will parse the xml files
